@@ -1,0 +1,6 @@
+{
+  "name": "Aurora AR — 3D Car Showroom & Unity ARCore Suite",
+  "description": "Interactive AR-Based 3D Car Showroom with real-time plane placement, PBR paint customization, component inspection, and complete Unity C# AR Foundation engineering deliverables.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
